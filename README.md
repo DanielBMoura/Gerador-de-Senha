@@ -21,7 +21,7 @@ Gerador de senhas aleatórias e seguras desenvolvido em HTML, CSS, e Javascript.
 
 **CSS**: Utilizado para estilizar os elementos da página, garantindo um visual atrativo e responsivo, com efeitos visuais interativos para melhor experiência do usuário.  
 
-**Javascript**: Implementa toda a lógica do gerador de senhas, incluindo: Geração aleatória de caracteres, Controle dinâmico do tamanho da senha, Funcionalidade de copiar para área de transferência, Exibição/ocultação dos elementos da interface 
+**Javascript**: Implementa toda a lógica do gerador de senhas, incluindo: Geração aleatória de caracteres, Controle dinâmico do tamanho da senha, Funcionalidade de copiar para área de transferência, Exibição/ocultação dos elementos da interface.
 
 ## Como clonar o repositório 📋
 
